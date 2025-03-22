@@ -2,8 +2,8 @@
 Я студент кафедры программной инженерии факультета интеллектуальных систем и программирования ДонНТУ. Изучаю Java и экосистему вокруг неё, активно осваиваю SQL, Spring и Hibernate, углубляюсь в Core, а также готовлюсь к стажировкам.
 
 <p align = 'center'>
- <a href="https://github-readme-stats.vercel.app/api?username=maratkinn&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true" /></a>
-<a href="https://github.com/romankh3/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact" /></a>
+ <a href="https://github-readme-stats.vercel.app/api?username=maratkinn&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=maratkinn&show_icons=true&count_private=true" /></a>
+<a href="https://github.com/maratkinn/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=maratkinn&layout=compact" /></a>
  </p>
 
 ### Ключевые моменты
